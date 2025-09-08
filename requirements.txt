@@ -32,5 +32,27 @@ newsapi-python==0.2.7
 pytz==2024.2
 ta==0.10.2
 pandas_datareader==0.10.0
+streamlit==1.38.0
+yfinance==0.2.41
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+plotly==5.24.1
+scikit-learn==1.5.2
+tensorflow==2.15.0
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+transformers==4.44.2
+vadersentiment==3.3.2
+ta==0.10.2
+pandas-datareader==0.10.0
+newsapi-python==0.2.7
+requests==2.32.3
+beautifulsoup4==4.13.5
+lxml==6.0.1
+python-dotenv==1.0.1
+joblib==1.5.2
+
 
 
