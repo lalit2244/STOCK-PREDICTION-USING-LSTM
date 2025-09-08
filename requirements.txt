@@ -31,4 +31,6 @@ newsapi-python==0.2.7
 # Extra utilities
 pytz==2024.2
 ta==0.10.2
+pandas_datareader==0.10.0
+
 
