@@ -16,6 +16,8 @@ plotly==5.24.1
 scikit-learn==1.5.2
 tensorflow==2.15.0
 keras==2.15.0
+vaderSentiment==3.3.2
+
 
 # NLP for Sentiment Analysis
 transformers==4.44.2
