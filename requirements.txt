@@ -14,8 +14,8 @@ plotly==5.24.1
 
 # Machine Learning / Deep Learning
 scikit-learn==1.5.2
-tensorflow==2.17.0
-keras==3.4.1
+tensorflow==2.15.0
+keras==2.15.0
 
 # NLP for Sentiment Analysis
 transformers==4.44.2
@@ -28,5 +28,3 @@ newsapi-python==0.2.7
 
 # Extra utilities
 pytz==2024.2
-
-
